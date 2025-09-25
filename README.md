@@ -6,8 +6,8 @@ This API provides endpoints to anonymize and deanonymize personal information (n
 
 1. Clone repository
 ```bash
-git clone <your-repo-url>
-cd <repo-directory>
+gh repo clone Anujjhariya/Text_Anonymizer
+cd Text_Anonymizer
 ```
 2. Create & activate virtual environment
 
@@ -65,5 +65,3 @@ Response:
 }
 ```
 
-
-7. 
